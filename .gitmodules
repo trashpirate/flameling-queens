@@ -1,0 +1,9 @@
+[submodule "queens-frontend"]
+	path = queens-frontend
+	url = https://github.com/trashpirate/queens-frontend.git
+[submodule "queens-smart-contracts"]
+	path = queens-smart-contracts
+	url = https://github.com/trashpirate/queens-smart-contracts.git
+[submodule "queens-artwork"]
+	path = queens-artwork
+	url = https://github.com/trashpirate/queens-artwork.git
